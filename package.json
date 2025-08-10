@@ -1,0 +1,15 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "description": "Minimal N8N setup for Render deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "n8n": "^1.50.0"
+  }
+}
