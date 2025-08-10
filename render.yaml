@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: n8n
+    name: n8n-clarix
     env: node
     plan: free
     buildCommand: npm install
